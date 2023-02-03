@@ -1,0 +1,2 @@
+C:\Users\eFALCOM\source\repos\ReactTaskTracker\ReactTaskTracker\obj\Debug\reacttasktracker.esproj.SuggestedBindingRedirects.cache
+C:\Users\eFALCOM\source\repos\ReactTaskTracker\ReactTaskTracker\obj\Debug\reacttasktracker.esproj.CoreCompileInputs.cache
