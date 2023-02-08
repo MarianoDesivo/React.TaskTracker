@@ -86,6 +86,8 @@ export default function App() {
   };
 
     return (
+        <Router>
+            <Route path="/">
     <div className="container">
       <Header
         onClick={toggleAddTask}
@@ -103,7 +105,9 @@ export default function App() {
         'There are no Tasks, please add one.'
       )}
 
-       <Footer />    
-       </div>     
+       <Footer /> 
+            </div>
+            </Route>
+        </Router>
   );
 }
