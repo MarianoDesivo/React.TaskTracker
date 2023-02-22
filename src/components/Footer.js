@@ -1,10 +1,11 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Footer() {
     return (
         <footer>
             <p>Copyright &copy; 2023</p>
-            <a href="/About">About</a>
+            <Link to="/About">About</Link>
         </footer>
   );
 }

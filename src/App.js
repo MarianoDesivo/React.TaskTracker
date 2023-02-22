@@ -87,7 +87,9 @@ export default function App() {
   };
 
   return (
+    <>
     <Router>
+      <p></p>
       <Routes>
 
         <Route path="/" element={
@@ -120,5 +122,6 @@ export default function App() {
       </Routes>
       <Footer />
     </Router >
+    </>
   );
 }
